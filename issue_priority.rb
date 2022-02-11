@@ -10,5 +10,3 @@ x < y < z
 def some_method(bar)
   puts 'Hello'
 end
-
-return 1
